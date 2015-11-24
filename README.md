@@ -6,7 +6,7 @@ http://keystonejs.com/docs/
 
 ## Introduction
 
-1. Give brief explanation on CMS, WordPress, ActiveAdmin, etc. King & Partners example.
+1. Give brief explanation on CMS, WordPress, ActiveAdmin.
 
 ## Instructions
 
