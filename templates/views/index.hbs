@@ -1,0 +1,14 @@
+<h1> Hello, there. I sure hope this works </h1>
+<hr>
+<h4> Posts </h4>
+{{#each posts}}
+  {{this.title}} | by {{this.author.name.full}} </br>
+  <p>
+    {{{this.content}}}
+
+    {{#each this.categories }}
+      <mark> {{this.name}} </mark>
+    {{/each}}
+    <hr>
+  </p>
+{{/each}}
